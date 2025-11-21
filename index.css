@@ -1,0 +1,105 @@
+body {
+    text-align: center;
+    background-color: rgb(113, 207, 245);
+    font-family: Iceberg;
+    font-weight: bolder;
+    margin: 0px;
+}
+
+a {
+    color: rgb(234, 244, 253);
+    text-decoration: none;
+}
+
+h1 {
+    font-family: Iceberg;
+    color:#188a8a;
+    text-shadow: 2px 2px rgb(234, 244, 253) ;
+}
+
+h1:hover {
+    cursor: pointer;
+}
+
+nav {
+    background-color:#188a8a;
+    height: 50px;
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+    
+
+
+}
+
+h6{
+    font-size: medium;
+} 
+
+button {
+    margin-top: 12px;
+    border: none;
+    background-color: transparent;
+    font-family: Iceberg;
+    font-size: larger;
+
+}
+
+footer {
+    font-family: iceberg;
+    margin-top: 20px;
+}
+
+.mee {
+    height: 50%;
+    width: 40%;
+    border-radius: 40px;
+    border: solid 3px rgb(23, 97, 102);
+    cursor: pointer;
+    
+}
+
+.icc {
+    height: 50%;
+    width: 40%;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+h3 {
+    margin: 20px;
+}
+
+.hi {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color:rgb(23, 97, 102);
+    text-shadow: 2px 2px aliceblue;
+    font-family: Iceberg;
+    border-radius: 15px;
+    border: solid 2px rgb(23, 97, 102);
+    background-color: rgb(186, 240, 240);
+    margin: 0px;
+    padding: 4px 10px;
+
+
+}
+
+.contact {
+    margin-top: 20px;
+
+}
+
+#em:hover {
+    cursor: pointer;
+}
+
+.hss {
+    color:#188a8a;
+    text-shadow: 2px 2px aliceblue;
+}
+
+#ft {
+    margin-top: 40px;
+}
